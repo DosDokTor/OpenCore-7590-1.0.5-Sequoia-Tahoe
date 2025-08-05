@@ -29,5 +29,5 @@ If you want bluetooth or sidecar to be added, you let me know, they're a kext aw
 
 Screenshots are in the Extra folder.
 
-
+Tuned by DosDokTor
 
